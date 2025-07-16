@@ -82,7 +82,6 @@ Here are a few of my favorite projects that showcase my range as a developer, fr
       <h3 align="center">ext2 File System Shell</h3>
       <p align="center">
         <a href="https://github.com/Gronoxx/Linux-Commands">
-          <img src="[URL_FOR_YOUR_LINUX_COMMANDS_GIF]" alt="File System Shell Demo" width="90%"/>
         </a>
       </p>
       <p>An interactive command-line shell in C to navigate and inspect an <code>ext2</code> file system image directly. This project demonstrates a deep understanding of low-level systems programming and data structures.</p>
