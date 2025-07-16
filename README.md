@@ -23,7 +23,23 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
+
+### 🌐 Explore My Interactive Portfolio
+
+> For a more visual and interactive showcase of my key projects, including a 3D experience built with **Three.js**, please visit my personal website.
+
+*While my website features my spotlight projects, GitHub serves as the most complete and up-to-date archive of my work.*
+
+<a href="https://gustavo-personal-page.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-00B859?style=for-the-badge&logo=Vercel&logoColor=white" alt="View Portfolio"/>
+</a>
+
+</div>
+
+---
+
+### Tech Stack & Tools
 
 This is a list of the primary technologies and tools I work with.
 
@@ -58,38 +74,47 @@ These stats are updated automatically and provide a glimpse into my activity and
 
 ### Spotlight Projects
 
-Here are a couple of my favorite projects that showcase my range as a developer.
+Here are a few of my favorite projects that showcase my range as a developer, from low-level systems to interactive web experiences.
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">ext2 File System Shell</h3>
+      <p align="center">
+        <a href="https://github.com/Gronoxx/Linux-Commands">
+          <img src="[URL_FOR_YOUR_LINUX_COMMANDS_GIF]" alt="File System Shell Demo" width="90%"/>
+        </a>
+      </p>
+      <p>An interactive command-line shell in C to navigate and inspect an <code>ext2</code> file system image directly. This project demonstrates a deep understanding of low-level systems programming and data structures.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">Ichirei Shikon - 2D Game</h3>
       <p align="center">
         <a href="https://github.com/Gronoxx/Ichirei-Shikon">
           <img src="https://github.com/user-attachments/assets/ce794bce-3337-4388-9987-02242703a3f9" alt="Ichirei Shikon Gameplay" width="90%"/>
         </a>
       </p>
-      <p align="center">
-        A 2D action-adventure game built from scratch with a custom engine. It features tactical combat, fluid movement, and a deep narrative, all built on top of the SDL2 library.
-      </p>
+      <p>A 2D action-adventure game built from scratch with a custom engine. It features tactical combat, fluid movement, and a deep narrative, all built on top of the SDL2 library.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
         <img src="https://img.shields.io/badge/SDL2-242424?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2 Badge"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ext2 File System Shell</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">Interactive 3D Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/Gronoxx/Linux-Commands">
-          <img src="https://i.imgur.com/YOUR_LINUX_COMMANDS_GIF.gif" alt="File System Shell Demo" width="90%"/>
-          </a>
+        <a href="https://gustavo-personal-page.netlify.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/77828f9b-1002-4613-9cd6-1b53fce10368" alt="Interactive Portfolio Demo" width="90%"/>
+        </a>
       </p>
+      <p>A portfolio website featuring a visual and interactive 3D experience built with Three.js. <em>For a complete archive of my work, this GitHub profile is the primary source.</em></p>
       <p align="center">
-        An interactive command-line shell developed in C to navigate and inspect an `ext2` file system image directly. This project demonstrates a deep understanding of low-level systems programming and data structures.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Badge"/>
       </p>
     </td>
   </tr>
