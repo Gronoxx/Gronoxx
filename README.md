@@ -120,3 +120,10 @@ Here are a few of my favorite projects that showcase my range as a developer, fr
 </table>
 
 ---
+
+
+<h3 align="center">Check Out My Pinned Projects Below!</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/j2a45GzROWcAAAAM/backhand-index-pointing-down-joypixels.gif" alt="Pointing Down" width="50" />
+</p>
