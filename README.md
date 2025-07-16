@@ -125,5 +125,5 @@ Here are a few of my favorite projects that showcase my range as a developer, fr
 <h3 align="center">Check Out My Pinned Projects Below!</h3>
 
 <p align="center">
-  ![backhand-index-pointing-down-joypixels](https://github.com/user-attachments/assets/e11cfed5-96ea-47ea-974e-4934b1d815cd)
+  ![backhand-index-pointing-down-joypixels](https://github.com/user-attachments/assets/52413d3b-fdec-4947-b909-700604191a6c)
 </p>
