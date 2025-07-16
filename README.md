@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Header Banner"/>
-  </p>
+  <img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/b5071a88-0935-4431-86f0-f557f7e572ab" /> 
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
