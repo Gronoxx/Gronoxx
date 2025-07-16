@@ -125,5 +125,5 @@ Here are a few of my favorite projects that showcase my range as a developer, fr
 <h3 align="center">Check Out My Pinned Projects Below!</h3>
 
 <p align="center">
-<img width="423" height="498" alt="image" src="https://github.com/user-attachments/assets/8f809aea-e4fc-49f2-b3c6-3aa83a93b5d8" />
+  <img src="https://media.tenor.com/j2a45GzROWcAAAAM/backhand-index-pointing-down-joypixels.gif" alt="Pointing Down" width="50" />
 </p>
