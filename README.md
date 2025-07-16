@@ -42,7 +42,7 @@ This is a list of the primary technologies and tools I work with.
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### My GitHub Stats & Activity
 
 These stats are updated automatically and provide a glimpse into my activity and language preferences on GitHub.
 
@@ -56,7 +56,7 @@ These stats are updated automatically and provide a glimpse into my activity and
 
 ---
 
-### 🌟 Spotlight Projects
+### Spotlight Projects
 
 Here are a couple of my favorite projects that showcase my range as a developer.
 
