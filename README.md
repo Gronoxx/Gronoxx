@@ -125,5 +125,5 @@ Here are a few of my favorite projects that showcase my range as a developer, fr
 <h3 align="center">Check Out My Pinned Projects Below!</h3>
 
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/61ec121f-74b9-4ca2-a770-86a0967d1906" alt="Pointing hand animation"/>
+  <img src="https://github.com/user-attachments/assets/22f76561-06b5-43bb-a70e-613e559029ae" alt="Pointing hand animation"/>
  </p>
